@@ -8,9 +8,9 @@ Reels-AutoPilot is a powerful GitHub repository that scrapes reels from specifie
 <a href="https://github.com/APeter" target="_blank"><img src="https://avatars.githubusercontent.com/u/3152337?s=80&v=4" width="80" alt="APeter"></a>
 
 ### Looking For Sponsors
-<a href="https://www.buymeacoffee.com/avnsh1111" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/ashishkatsv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 &nbsp;&nbsp;
-<noscript><a href="https://liberapay.com/avnsh1111/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
 
 ## Table of Contents
 
