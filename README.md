@@ -44,7 +44,7 @@ Before using Reels-AutoPilot, set your configuration variables in the `config.py
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/avnsh1111/Instagram-Reels-Scraper-Auto-Poster.git
+git clone https://github.com/tinkle21/Instagram-Reels-Scraper-Auto-Poster.git
 cd Instagram-Reels-Scraper-Auto-Poster
 ```
 
